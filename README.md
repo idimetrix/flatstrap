@@ -1,4 +1,4 @@
-# [Flatstrap](http://zerox.me/projects/flatstrap)
+# [Flatstrap](http://hireawebteam.com)
 [![Bower version](https://badge.fury.io/bo/flatstrap.svg)](http://badge.fury.io/bo/flatstrap)
 [![npm version](https://badge.fury.io/js/flatstrap.svg)](http://badge.fury.io/js/flatstrap)
 [![devDependency Status](https://david-dm.org/twbs/bootstrap/dev-status.svg)](https://david-dm.org/littlesparkvt/flatstrap#info=devDependencies)
@@ -16,7 +16,7 @@ First and foremost I'd like to thank everyone that has contributed and starred t
 ## Flatstrap Creator
 
 **William Waldon**
-
+- <https://hireawebteam.com>
 - <http://www.wilwaldon.com>
 - <https://github.com/wilwaldon>
 - <https://twitter.com/littlesparkvt>
